@@ -31,19 +31,19 @@ Setup Instructions:-
 Gather high-quality, structured CLAT and law exam-related content, ideally from NLTI or similar:
 
 Sources:
-	-	NLTI notes, lectures, PDFs, and blog content.
-	-	Previous year question papers and answer keys.
-	-	FAQs, model answers, and study guides.
-	-	Legal principles, case summaries, and mock test answers.
+	- NLTI notes, lectures, PDFs, and blog content.
+	- Previous year question papers and answer keys.
+	- FAQs, model answers, and study guides.
+	- Legal principles, case summaries, and mock test answers.
 
  2. Data Cleaning & Preprocessing
-	-	Convert text/PDFs into structured Q&A pairs.
+	 - Convert text/PDFs into structured Q&A pairs.
 
  3. Hosting & Scaling
 
 Once fine-tuned:
-	-	Replace the fallback model in your current chatbot with your fine-tuned GPT model.
-	-	Streamlit Cloud
+	- Replace the fallback model in your current chatbot with your fine-tuned GPT model.
+	- Streamlit Cloud
 
 
  
